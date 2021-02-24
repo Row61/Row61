@@ -7,7 +7,7 @@ Ola sou  Row tenho 14 anos e tenho um grande interesse na area de programação
 🛠 Tools:Visual Code Studio, Sublime Text and Github
 
 💻 Currently studying -
-C# 
+C# and pentesting  
 <hr>
 
 
